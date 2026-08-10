@@ -1,32 +1,291 @@
-<h1 align="center">Hi 👋, I'm Vinay Jadhav</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+# 👋 Hi, I'm Vinay Jadhav
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehulkhunts&label=Profile%20views&color=0e75b6&style=flat" alt="thehulkhunts" /> </p>
+## 🚀 DevOps Engineer
 
-- 🔭 I’m currently working on **AWS and DevOps**
+DevOps Engineer with **3–5 years of experience** in designing, automating, and managing scalable cloud infrastructure and reliable CI/CD platforms.
 
-- 🌱 I’m currently learning **Python**
+My expertise includes **AWS, Kubernetes, Terraform, Docker, GitHub Actions, Jenkins, and GitOps**, with a strong focus on Infrastructure as Code, automation, container orchestration, continuous delivery, and production-ready cloud environments.
 
-- 👯 I’m looking to collaborate on **DevOps Projects**
+---
 
-- 🤝 I’m looking for help with **Microservice Architecture**
+## 🧑‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/thehulkhunts/](https://github.com/thehulkhunts/)
+* 💼 **3–5 years of experience** in DevOps and Cloud technologies
+* ☁️ Hands-on experience with **AWS Cloud Infrastructure**
+* 🏗️ Designing reusable and scalable infrastructure using **Terraform**
+* ☸️ Working with **Kubernetes and Amazon EKS**
+* 🐳 Building and deploying containerized applications using **Docker**
+* 🔄 Designing and implementing **CI/CD pipelines**
+* ⚙️ Automating infrastructure and application deployments
+* 🚀 Implementing **GitOps workflows using ArgoCD**
+* 🔧 Working with **GitHub Actions and Jenkins** for CI/CD automation
+* 🔐 Focused on secure, reliable, scalable, and production-ready infrastructure
+* 📚 Continuously learning and improving Cloud, DevOps, Kubernetes, and automation skills
 
-- 💬 Ask me about **AWS DevOps, IaaS**
+---
 
-- 📫 How to reach me **vinayjadhav969@gmail.com**
+## 🛠️ Tools & Technologies
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vinay-jadhav-261188415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinay-jadhav-261188415" height="30" width="40" /></a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" alt="Jenkins"/>
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" alt="Terraform"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
+</a>
+
+
+<!-- Prometheus -->
+
+<a href="https://prometheus.io/" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="Prometheus" width="50" height="50"/> 
+</a>
+
+<!-- Grafana -->
+
+<a href="https://grafana.com/" target="_blank"> 
+<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="50" height="50"/> 
+</a>
+
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="GitHub Actions"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehulkhunts&show_icons=true&locale=en&layout=compact" alt="thehulkhunts" /></p>
+## 🎯 DevOps Expertise
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehulkhunts&show_icons=true&locale=en" alt="thehulkhunts" /></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehulkhunts&" alt="thehulkhunts" /></p>
+### ☁️ Cloud & Infrastructure
+
+* AWS Cloud Infrastructure
+* VPC & Networking
+* IAM & Security
+* EC2 & RDS
+* S3
+* Infrastructure as Code
+* Reusable Terraform Modules
+* Remote Terraform State
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☸️ Containers & Orchestration
+
+* Docker
+* Kubernetes
+* Amazon EKS
+* Kubernetes Networking
+* Services & Ingress
+* ConfigMaps & Secrets
+* Resource Management
+* Application Scaling
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 CI/CD & Automation
+
+* GitHub Actions
+* Jenkins
+* CI/CD Pipeline Design
+* Build & Deployment Automation
+* Terraform CI/CD
+* Automated Infrastructure Deployment
+* Environment-Based Workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 GitOps & Deployment
+
+* ArgoCD
+* GitOps Workflows
+* Kubernetes Application Delivery
+* Automated Synchronization
+* ArgoCD Image Updater
+* Git-Based Configuration Management
+* Continuous Deployment
+
+</td>
+</tr>
+</table>
+
+### 🔐 Engineering Practices
+
+`Infrastructure as Code` • `Automation` • `GitOps` • `Cloud Security` • `Scalability` • `High Availability` • `Monitoring` • `Troubleshooting`
+
+---
+
+## 🚀 Featured DevOps Projects
+
+### 🏗️ Production Terraform AWS Infrastructure
+
+Designed and implemented reusable and scalable **Terraform infrastructure** for AWS environments.
+
+**Key Areas:**
+
+* Modular Terraform Architecture
+* Reusable Terraform Modules
+* AWS Networking Infrastructure
+* VPC & Subnet Design
+* Security Groups
+* EC2 Infrastructure
+* RDS Infrastructure
+* IAM
+* S3
+* Environment-Specific Configurations
+* Remote Terraform State
+* Infrastructure Automation Through CI/CD
+
+---
+
+### ☸️ Kubernetes / Amazon EKS Projects
+
+Worked with **Kubernetes and Amazon EKS** to deploy, manage, and troubleshoot containerized applications.
+
+**Key Areas:**
+
+* EKS Cluster Architecture
+* Kubernetes Workloads
+* Deployments & Services
+* Ingress
+* ConfigMaps & Secrets
+* Resource Requests & Limits
+* Liveness & Readiness Probes
+* Kubernetes Networking
+* Container Troubleshooting
+* Application Deployment & Scaling
+
+---
+
+### 🚀 ArgoCD GitOps Projects
+
+Implemented **GitOps-based application delivery** using ArgoCD.
+
+**Key Areas:**
+
+* ArgoCD Application Management
+* Git-Based Deployment Workflows
+* Kubernetes Application Synchronization
+* Automated Application Deployments
+* GitOps-Based Configuration Management
+* ArgoCD Image Updater
+* Container Image Version Management
+* Continuous Deployment
+
+---
+
+## 🏗️ Infrastructure as Code
+
+I focus on building **reusable, modular, and scalable Terraform infrastructure** for AWS environments.
+
+```text
+Terraform
+    │
+    ├── VPC & Networking
+    ├── Security Groups
+    ├── IAM
+    ├── EC2
+    ├── RDS
+    ├── S3
+    └── Other AWS Services
+```
+
+Key principles:
+
+* ♻️ Reusable Terraform Modules
+* 📦 Modular Architecture
+* 🔐 Secure Infrastructure
+* 🌍 Environment-Based Configuration
+* 🔄 Remote State Management
+* ⚙️ Automated Terraform Workflows
+* 📈 Scalable Infrastructure Design
+
+---
+
+## 🎯 Career Focus
+
+I am focused on growing as a **Cloud & DevOps Engineer** by designing production-grade infrastructure, improving deployment automation, strengthening Kubernetes expertise, and building reliable CI/CD and GitOps platforms.
+
+### I'm particularly interested in:
+
+* ☁️ AWS Cloud Infrastructure
+* 🏗️ Terraform / Infrastructure as Code
+* ☸️ Kubernetes / Amazon EKS
+* 🐳 Docker & Containerization
+* 🔄 CI/CD Automation
+* 🚀 GitOps & ArgoCD
+* ⚙️ Cloud Infrastructure Automation
+* 🔐 Secure & Scalable Infrastructure
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thehulkhunts&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehulkhunts&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/thehulkhunts" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vinay-jadhav-261188415" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</p>
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+I'm always interested in **DevOps, Cloud, Kubernetes, Infrastructure as Code, automation, and new technologies**.
+
+<p align="center">
+  <i>Let's build, automate, and scale 🚀</i>
+</p>
