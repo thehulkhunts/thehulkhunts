@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Vinay Jadhav
+# 🏄‍♂️ Hi, I'm Vinay Jadhav
 
-## 🚀 DevOps Engineer
+## 🚀 **`DevOps Engineer`**
 
 DevOps Engineer with **3–5 years of experience** in designing, automating, and managing scalable cloud infrastructure and reliable CI/CD platforms.
 
