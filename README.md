@@ -1,11 +1,10 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/thehulkhunts">
     <img src="https://raw.githubusercontent.com/thehulkhunts/thehulkhunts/master/assests/devops.png"
          alt="MasterHead"
          width="700">
   </a>
 </p>
-
 
 <h1>
   <font color="#00BFFF">🏄‍♂️ Hi, I'm Vinay Jadhav</font>
