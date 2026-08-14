@@ -1,15 +1,19 @@
 <p align="center">
   <a href="https://github.com/thehulkhunts">
-    <img src="https://raw.githubusercontent.com/thehulkhunts/thehulkhunts/master/assests/21004063.jpg"
+    <img src="https://raw.githubusercontent.com/thehulkhunts/thehulkhunts/master/assests/devops.png"
          alt="MasterHead"
-         width="300">
+         width="700">
   </a>
 </p>
 
 
-# 🏄‍♂️ Hi, I'm Vinay Jadhav
+<h1>
+  <font color="#00BFFF">🏄‍♂️ Hi, I'm Vinay Jadhav</font>
+</h1>
 
-## 🚀 **`DevOps Engineer`** 
+<h2>
+  <font color="#2EA043">🚀 DevOps Engineer</font>
+</h2>
 
 
 
