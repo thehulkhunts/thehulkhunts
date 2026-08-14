@@ -2,7 +2,7 @@
   <a href="https://github.com/thehulkhunts">
     <img src="https://raw.githubusercontent.com/thehulkhunts/thehulkhunts/master/assests/21004063.jpg"
          alt="MasterHead"
-         width="700">
+         width="500">
   </a>
 </p>
 
