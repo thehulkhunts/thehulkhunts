@@ -1,6 +1,17 @@
+<p align="center">
+  <a href="https://github.com/thehulkhunts">
+    <img src="https://raw.githubusercontent.com/thehulkhunts/thehulkhunts/master/assests/dribbble-github-readme.jpg"
+         alt="MasterHead"
+         width="700">
+  </a>
+</p>
+
+
 # 🏄‍♂️ Hi, I'm Vinay Jadhav
 
-## 🚀 **`DevOps Engineer`**
+## 🚀 **`DevOps Engineer`** 
+
+
 
 DevOps Engineer with **3–5 years of experience** in designing, automating, and managing scalable cloud infrastructure and reliable CI/CD platforms.
 
